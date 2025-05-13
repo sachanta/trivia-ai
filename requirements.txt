@@ -5,3 +5,9 @@ pynput
 google-cloud-vision>=2.0.0
 numpy>=1.19.0 
 google-genai
+langgraph>=0.0.3
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-openai>=0.0.2
+arize-phoenix-otel>=0.1.0
+openinference-instrumentation-langchain>=0.1.0
