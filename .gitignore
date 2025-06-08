@@ -5,6 +5,10 @@ venv
 
 # Google credentials
 robinenv.json
+utilitarian-bee-277217-fa45c9657136.json
+
+# Jupyter notebooks with sensitive data
+traveladvise-042825.ipynb
 
 # Python
 __pycache__/
