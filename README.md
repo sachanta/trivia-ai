@@ -1,5 +1,5 @@
 
-# RobbinHood: a Perplexity powered trivia assistant.
+# An AI powered trivia assistant.
 
 [Here's the link to the tweet where I explain how it works](https://x.com/vikvang1/status/1899154542291223028?s=46&t=kXMMVRmJirhTTP_CvHVf-w)
 
